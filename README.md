@@ -1,34 +1,34 @@
-# Sistema de Biblioteca com SQLAlchemy
+# Library System with SQLAlchemy
 
-Projeto desenvolvido em Python utilizando SQLite e SQLAlchemy para prática de banco de dados, ORM e modelagem relacional.
+Project developed in Python using SQLite and SQLAlchemy to practice databases, ORM, and relational modeling.
 
-## Tecnologias utilizadas
+## Technologies Used
 - Python
 - SQLite
 - SQLAlchemy
 
-## Funcionalidades
-- Cadastro de usuários
-- Cadastro de livros
-- Relacionamento entre usuários e livros
-- Criação automática do banco de dados
+## Features
+- User registration
+- Book registration
+- Relationship between users and books
+- Automatic database creation
 
-## Como executar
+## How to Run
 
-1. Clone o repositório
-2. Instale as dependências
+1. Clone the repository
+2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Execute o projeto
+3. Run the project
 
 ```bash
 python main.py
 ```
 
-## Estrutura do projeto
+## Project Structure
 
 ```text
 ├── main.py
@@ -37,6 +37,6 @@ python main.py
 └── README.md
 ```
 
-## Objetivo
+## Purpose
 
-Projeto criado para estudo de banco de dados com Python e SQLAlchemy.
+Project created to study databases using Python and SQLAlchemy.
